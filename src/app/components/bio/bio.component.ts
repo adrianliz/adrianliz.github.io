@@ -9,11 +9,15 @@ import { JsonReaderService } from '../../services/json-reader.service';
 })
 export class BioComponent implements OnInit {
   bio!: Bio;
+  loading = true;
 
   constructor(private jsonReader: JsonReaderService) {
   }
 
   ngOnInit(): void {
-    this.jsonReader.getBio().subscribe(res => this.bio = res);
+    this.jsonReader.getBio().subscribe(res => {
+      this.bio = res;
+      this.loading = false;
+    });
   }
 }

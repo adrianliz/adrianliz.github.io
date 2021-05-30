@@ -1,10 +1,14 @@
 <section>
-  <h1>{{ bio.title }}</h1>
-  <hr>
+  <div class="lds-hourglass" *ngIf="loading"></div>
 
-  <div class="desc-container">
-    <p *ngFor="let desc of bio.desc">
-      {{ desc.text }}
-    </p>
-  </div>
+  <ng-container *ngIf="!loading">
+    <h1>{{ bio.title }}</h1>
+    <hr>
+
+    <div class="desc-container">
+      <p *ngFor="let desc of bio.desc">
+        {{ desc.text }}
+      </p>
+    </div>
+  </ng-container>
 </section>

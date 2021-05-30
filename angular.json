@@ -17,7 +17,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/adrianliz.github.io",
+            "outputPath": "dist/adrianliz",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
@@ -65,18 +65,18 @@
         "serve": {
           "builder": "@angular-devkit/build-angular:dev-server",
           "options": {
-            "browserTarget": "adrianliz.github.io:build"
+            "browserTarget": "adrianliz:build"
           },
           "configurations": {
             "production": {
-              "browserTarget": "adrianliz.github.io:build:production"
+              "browserTarget": "adrianliz:build:production"
             }
           }
         },
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "browserTarget": "adrianliz.github.io:build"
+            "browserTarget": "adrianliz:build"
           }
         },
         "test": {
@@ -113,11 +113,11 @@
           "builder": "@angular-devkit/build-angular:protractor",
           "options": {
             "protractorConfig": "e2e/protractor.conf.js",
-            "devServerTarget": "adrianliz.github.io:serve"
+            "devServerTarget": "adrianliz:serve"
           },
           "configurations": {
             "production": {
-              "devServerTarget": "adrianliz.github.io:serve:production"
+              "devServerTarget": "adrianliz:serve:production"
             }
           }
         },
