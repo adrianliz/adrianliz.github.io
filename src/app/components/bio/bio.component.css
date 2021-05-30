@@ -1,0 +1,21 @@
+section {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-weight: 500;
+}
+
+hr {
+  margin: 0;
+  border-top: .1rem solid #96979c;
+  width: 100%;
+}
+
+.desc-container {
+  text-align: justify;
+  text-justify: inter-word;
+}

@@ -1,0 +1,10 @@
+<section>
+  <h1>{{ bio.title }}</h1>
+  <hr>
+
+  <div class="desc-container">
+    <p *ngFor="let desc of bio.desc">
+      {{ desc.text }}
+    </p>
+  </div>
+</section>

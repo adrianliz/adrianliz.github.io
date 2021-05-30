@@ -1,0 +1,53 @@
+button {
+  width: 120px;
+  height: 30px;
+  margin: 0 20px;
+  border: 2px solid #96979c;
+  border-radius: 50px;
+  color: #96979c;
+  font-size: 1rem;
+  box-shadow: #96979c 2px 2px;
+  overflow: auto;
+}
+
+button img {
+  height: 16px;
+  width: 16px;
+}
+
+button:hover {
+  cursor: pointer;
+  box-shadow: none;
+  transform: translate3d(2px, 2px, 0);
+  transition: all 0.1s ease;
+  outline: none;
+}
+
+@media (max-width: 600px) {
+  .links {
+    text-align: center;
+  }
+
+  .links button {
+    margin: 10px;
+  }
+}
+
+span {
+  font-weight: bold;
+  color: #0099FF;
+}
+
+.links {
+  margin: 25px 0;
+}
+
+.button-content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-content span {
+  margin-left: 10px;
+}

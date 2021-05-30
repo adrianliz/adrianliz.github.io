@@ -1,0 +1,17 @@
+<section>
+  <h1 class="title">Mis proyectos</h1>
+  <hr>
+
+ <div class="card" *ngFor="let project of projects | async">
+   <h1>{{ project.title }}</h1>
+   <img *ngIf="project.img" [src]="project.img" [alt]="project.img" />
+
+   <div class="desc-container">
+     <p *ngFor="let desc of project.desc">
+       {{ desc.text }}
+     </p>
+   </div>
+
+   <a *ngIf="project.link" [href]="project.link">{{ project.title }}</a>
+ </div>
+</section>
