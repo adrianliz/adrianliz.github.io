@@ -3,10 +3,10 @@
     "title": "OperationsManager",
     "desc": [
       {
-        "text": "Proyecto realizado durante mis prácticas universitarias en PLATA"
+        "text": "Proyecto realizado durante mis prácticas universitarias en PLATA (Plataforma Aeroportuaria de Teruel)"
       },
       {
-        "text": "Se trata de una aplicación nativa desarrollada en Java que permite el procesamiento de las operaciones aeroportuarias que se han desarrollado en el aeropuerto de Teruel (LETL)"
+        "text": "Se trata de una aplicación nativa de escritorio, desarrollada en Java, que permite el procesamiento de las operaciones aeroportuarias que se han desarrollado en el aeropuerto de Teruel (LETL)"
       },
       {
         "text": "Para ello se ha tenido que procesar un fichero XLSX donde se encontraban dichas operaciones"
@@ -59,7 +59,7 @@
         "text": "También se ha hecho uso de ontologías para representar el conocimiento de la máquina"
       },
       {
-        "text": "Además se ha utilizado Spring como tecnología backend y Angular como framework de desarrollo frontend, así como GitHub actions para implementar pipelines de CI/CD"
+        "text": "Además se ha utilizado Spring como tecnología backend y Angular como framework de desarrollo frontend, así como GitHub Actions para implementar pipelines de CI/CD"
       },
       {
         "text": "Gracias a este proyecto he podido comprender las necesidades de la I4.0 y como aplicar distintas técnicas que permiten obtener información analítica del proceso productivo de una planta industrial"
