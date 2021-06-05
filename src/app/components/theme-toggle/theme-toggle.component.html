@@ -1,0 +1,8 @@
+<div class="theme-toggler">
+  <input
+    type="checkbox" id="toggler"
+    [checked]="darkMode | async"
+    (change)="onToggle()"
+  />
+  <label for="toggler" aria-label="theme toggler"></label>
+</div>

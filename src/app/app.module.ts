@@ -7,6 +7,7 @@ import { CardsInfoComponent } from './components/cards-info/cards-info.component
 import { HeaderComponent } from './components/header/header.component';
 import { LinksComponent } from './components/links/links.component';
 import { BioComponent } from './components/bio/bio.component';
+import { ThemeToggleComponent } from './components/theme-toggle/theme-toggle.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +15,8 @@ import { BioComponent } from './components/bio/bio.component';
     HeaderComponent,
     LinksComponent,
     CardsInfoComponent,
-    BioComponent
+    BioComponent,
+    ThemeToggleComponent
   ],
   imports: [
     BrowserModule, HttpClientModule

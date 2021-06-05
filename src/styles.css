@@ -7,6 +7,14 @@ body {
 
 body {
   font-family: 'Roboto Mono', monospace;
+}
+
+body.dark-mode {
+  background: #100E17;
+  color: #ffffff;
+}
+
+body.light-mode {
   background: #ffffff;
   color: #000000;
 }
