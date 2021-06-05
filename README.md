@@ -22,7 +22,7 @@ Para usarlo simplemente puedes hacer un fork del mismo y configurarlo a tu gusto
 
 ¿Cómo lo despliego en mi GitHub?
 
-- Ejecuta `ng deploy --base-href=https://<github-username>/` y ¡Listo! 🚀
+- Ejecuta `ng deploy --base-href=https://<github-username>.github.io/` y ¡Listo! 🚀
 
 
 ## ¿Cómo apoyarme?
