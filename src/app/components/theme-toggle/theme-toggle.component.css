@@ -2,6 +2,7 @@
   position: fixed;
   top: 5px;
   right: 20px;
+  z-index: 1;
 }
 
 .theme-toggler label {
