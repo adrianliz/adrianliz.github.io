@@ -3,7 +3,8 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+  GOOGLE_TRACKING_ID: 'G-61TK0ZC743'
 };
 
 /*

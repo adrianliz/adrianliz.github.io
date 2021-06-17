@@ -1,5 +1,6 @@
 <div class="links">
-  <button *ngFor="let link of links | async" (click)="goToLink(link.link)">
+  <button gaEvent="click_{{ link.name }}" gaCategory="ga_directive_{{ link.name }}" *ngFor="let link of links | async"
+          (click)="goToLink(link.link)">
     <span class="button-content">
       <img [src]="link.img" [alt]="link.img">
       <span>{{ link.name }}</span>

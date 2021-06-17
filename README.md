@@ -24,7 +24,6 @@ Para usarlo simplemente puedes hacer un fork del mismo y configurarlo a tu gusto
 
 - Ejecuta `ng deploy --base-href=https://<github-username>.github.io/` y ¡Listo! 🚀
 
-
 ## ¿Cómo apoyarme?
 
 Las PRs son bienvenidas y agradezco las 🌟🌟

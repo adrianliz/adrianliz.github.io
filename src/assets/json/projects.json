@@ -1,46 +1,5 @@
 [
   {
-    "title": "OperationsManager",
-    "img": "assets/img/operations_manager.png",
-    "desc": [
-      {
-        "text": "Proyecto realizado durante mis prácticas universitarias en PLATA (Plataforma Aeroportuaria de Teruel)"
-      },
-      {
-        "text": "Se trata de una aplicación nativa de escritorio, desarrollada en Java, que permite el procesamiento de las operaciones aeroportuarias que se han desarrollado en el aeropuerto de Teruel (LETL)"
-      },
-      {
-        "text": "Para ello se ha tenido que procesar un fichero XLSX donde se encontraban dichas operaciones"
-      },
-      {
-        "text": "Una vez leídas se han generado distintos gráficos que facilitan un análisis visual de estas"
-      },
-      {
-        "text": "También se permite la generación de distintos reportes para diferentes periodos temporales en formato PDF"
-      }
-    ],
-    "link": "https://github.com/adrianliz/OperationsManager"
-  },
-  {
-    "title": "MiBus",
-    "img": "assets/img/mibus.png",
-    "desc": [
-      {
-        "text": "Proyecto que surge por mi hartazgo personal con los servicios digitales de la ciudad donde vivo (Teruel)"
-      },
-      {
-        "text": "Teruel sigue sin tener una API pública accesible y tiene unos servicios digitales poco actualizados"
-      },
-      {
-        "text": "¿Así que me dije? -> Web scrapping + NodeJS + React = Conocer en tiempo real dónde están los autobuses urbanos"
-      },
-      {
-        "text": "¿Conseguiré que el ayuntamiento se de cuenta de la importancia de los datos públicos?"
-      }
-    ],
-    "link": "http://www.mibusteruel.es"
-  },
-  {
     "title": "Smartglass",
     "img": "assets/img/smartglass.png",
     "desc": [
@@ -66,6 +25,47 @@
         "text": "Gracias a este proyecto he podido comprender las necesidades de la I4.0 y como aplicar distintas técnicas que permiten obtener información analítica del proceso productivo de una planta industrial"
       }
     ]
+  },
+  {
+    "title": "MiBus",
+    "img": "assets/img/mibus.png",
+    "desc": [
+      {
+        "text": "Proyecto que surge por mi hartazgo personal con los servicios digitales de la ciudad donde vivo (Teruel)"
+      },
+      {
+        "text": "Teruel sigue sin tener una API pública accesible y tiene unos servicios digitales poco actualizados"
+      },
+      {
+        "text": "¿Así que me dije? -> Web scrapping + NodeJS + React = Conocer en tiempo real dónde están los autobuses urbanos"
+      },
+      {
+        "text": "¿Conseguiré que el ayuntamiento se de cuenta de la importancia de los datos públicos?"
+      }
+    ],
+    "link": "http://www.mibusteruel.es"
+  },
+  {
+    "title": "OperationsManager",
+    "img": "assets/img/operations_manager.png",
+    "desc": [
+      {
+        "text": "Proyecto realizado durante mis prácticas universitarias en PLATA (Plataforma Aeroportuaria de Teruel)"
+      },
+      {
+        "text": "Se trata de una aplicación nativa de escritorio, desarrollada en Java, que permite el procesamiento de las operaciones aeroportuarias que se han desarrollado en el aeropuerto de Teruel (LETL)"
+      },
+      {
+        "text": "Para ello se ha tenido que procesar un fichero XLSX donde se encontraban dichas operaciones"
+      },
+      {
+        "text": "Una vez leídas se han generado distintos gráficos que facilitan un análisis visual de estas"
+      },
+      {
+        "text": "También se permite la generación de distintos reportes para diferentes periodos temporales en formato PDF"
+      }
+    ],
+    "link": "https://github.com/adrianliz/OperationsManager"
   },
   {
     "title": "Futuros proyectos",
