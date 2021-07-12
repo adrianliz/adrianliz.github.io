@@ -4,43 +4,44 @@
     "img": "assets/img/smartglass.png",
     "desc": [
       {
-        "text": "Smartglass se trata de mi proyecto final de grado"
+        "text": "Smartglass se trata de mi Trabajo de Fin de Grado (calificado con Matrícula de Honor)."
       },
       {
-        "text": "Este consiste en la creación de un gemelo digital para una máquina-herramienta de la I4.0"
+        "text": "Este consistió en la implementación de un gemelo digital para una máquina-herramienta industrial en colaboración empresa-universidad en el contexto de la Industria 4.0 y el IoT."
       },
       {
-        "text": "Se ha realizado en colaboración tecnológica con una empresa turolense (TUROMAS)"
+        "text": "En él se puso en práctica una metodología propuesta por dos investigadores de la Universidad de Auckland."
       },
       {
-        "text": "En él se ha aplicado una arquitectura orientada a servicios para crear el gemelo"
+        "text": "Para su desarrollo se empleó la arquitectura hexagonal y principios de Domain-Driven Design (DDD)."
       },
       {
-        "text": "También se ha hecho uso de ontologías para representar el conocimiento de la máquina"
+        "text": "También, se construyó una ontología OWL DL haciendo uso del IDE Protégé, el framework Apache Jena y el estándar ISO 14649 para representar de manera fidedigna el modelo de datos y de comunicación del gemelo."
       },
       {
-        "text": "Además se ha utilizado Spring como tecnología backend y Angular como framework de desarrollo frontend, así como GitHub Actions para implementar pipelines de CI/CD"
+        "text": "Además, se utilizó Spring como tecnología back-end y Angular como framework de desarrollo front-end, así como GitHub Actions para la implementación de pipelines de CI/CD."
       },
       {
-        "text": "Gracias a este proyecto he podido comprender las necesidades de la I4.0 y como aplicar distintas técnicas que permiten obtener información analítica del proceso productivo de una planta industrial"
+        "text": "Gracias a este proyecto he podido comprender las necesidades de la I4.0 y cómo aplicar distintas técnicas que permiten extraer información analítica del proceso productivo de una planta industrial."
       }
-    ]
+    ],
+    "link": "http://155.210.68.101/"
   },
   {
     "title": "MiBus",
     "img": "assets/img/mibus.png",
     "desc": [
       {
-        "text": "Proyecto que surge por mi hartazgo personal con los servicios digitales de la ciudad donde vivo (Teruel)"
+        "text": "Proyecto que surge por la idea personal de mejorar el servicio de trasporte urbano de la ciudad de Teruel."
       },
       {
-        "text": "Teruel sigue sin tener una API pública accesible y tiene unos servicios digitales poco actualizados"
+        "text": "En él apliqué técnicas de Web Scraping para extraer información de sistemas de información desactualizados añadiéndoles significado y valor a través de procesos ETL."
       },
       {
-        "text": "¿Así que me dije? -> Web scrapping + NodeJS + React = Conocer en tiempo real dónde están los autobuses urbanos"
+        "text": "Gracias a él pude profundizar en nuevas tecnologías como Typescript, NodeJS, React, etc."
       },
       {
-        "text": "¿Conseguiré que el ayuntamiento se de cuenta de la importancia de los datos públicos?"
+        "text": "Además, conseguí familiarizarme con la puesta en producción de sistemas reales, así como en la importancia de la mantenibilidad."
       }
     ],
     "link": "http://www.mibusteruel.es"
@@ -50,19 +51,16 @@
     "img": "assets/img/operations_manager.png",
     "desc": [
       {
-        "text": "Proyecto realizado durante mis prácticas universitarias en PLATA (Plataforma Aeroportuaria de Teruel)"
+        "text": "Proyecto realizado durante mis prácticas universitarias en PLATA (Plataforma Aeroportuaria de Teruel)."
       },
       {
-        "text": "Se trata de una aplicación nativa de escritorio, desarrollada en Java, que permite el procesamiento de las operaciones aeroportuarias que se han desarrollado en el aeropuerto de Teruel (LETL)"
+        "text": "Se trata de una aplicación nativa de escritorio, desarrollada en Java, que permite el procesamiento de las operaciones aeroportuarias que se han desarrollado en el aeropuerto de Teruel (LETL)."
       },
       {
-        "text": "Para ello se ha tenido que procesar un fichero XLSX donde se encontraban dichas operaciones"
+        "text": "Para ello se tuvo que hacer uso de procesos ETL con el objetivo de centralizar la información proveniente de las fuentes de datos disponibles, garantizando su integridad."
       },
       {
-        "text": "Una vez leídas se han generado distintos gráficos que facilitan un análisis visual de estas"
-      },
-      {
-        "text": "También se permite la generación de distintos reportes para diferentes periodos temporales en formato PDF"
+        "text": "Gracias a esto se permite la generación de gráficos analíticos que simplifican la toma de decisiones en el proceso de gestión del aeropuerto."
       }
     ],
     "link": "https://github.com/adrianliz/OperationsManager"
@@ -71,16 +69,16 @@
     "title": "Futuros proyectos",
     "desc": [
       {
-        "text": "Graduarme"
+        "text": "Continuar aprendiendo y mejorando día a día."
       },
       {
-        "text": "Seguir investigando las metodologías prácticas de implementación de gemelos digitales"
+        "text": "Seguir investigando las metodologías prácticas de implementación de gemelos digitales."
       },
       {
-        "text": "Termostato inteligente con IoT mediante MQTT -> Evolución de una práctica de la asignatura de Sistemas y Tecnologías Web de la carrera"
+        "text": "Termostato inteligente a través del IoT."
       },
       {
-        "text": "¿Quién sabe que más?"
+        "text": "¿Quién sabe qué más?"
       }
     ]
   }

@@ -2,13 +2,25 @@
   "title": "¿Quién soy?",
   "desc": [
     {
-      "text": "Soy Adrián Lizaga, un estudiante de Ingeniería Informática de la Universidad de Zaragoza"
+      "text": "✔️ Soy Adrián Lizaga, Graduado en Ingeniería Informática por la Universidad de Zaragoza."
     },
     {
-      "text": "Me apasiona la tecnología y enfrentarme a nuevos problemas"
+      "text": "Me apasiona el desarrollo de software de calidad, su escalabilidad y mantenibilidad."
     },
     {
-      "text": "Actualmente estoy terminando mi trabajo final de grado en el cual estoy implementando un gemelo digital para una máquina-herramienta de la I4.0"
+      "text": "\uD83D\uDC68\u200D\uD83C\uDF93 En mi Trabajo de Fin de Grado (calificado con Matrícula de Honor) implementé un gemelo digital para una máquina-herramienta industrial (Industria 4.0) en colaboración tecnológica empresa-universidad."
+    },
+    {
+      "text": "En él tuve la oportunidad de enfrentarme a diversas tecnologías para desarrollar la aplicación back-end y front-end (Angular 11, Spring, MongoDB, OWL, MQTT, Bootstrap, CSS, HTML, etc.)."
+    },
+    {
+      "text": "Además, construí una ontología OWL DL que representaba de manera fidedigna el conocimiento de la máquina haciendo uso del IDE Protégé, el framework Apache Jena y el estándar ISO 14649."
+    },
+    {
+      "text": "Fuera de la Universidad he desarrollado por mi cuenta diversos proyectos que me han ayudado a mejorar mis aptitudes tanto personalmente como en equipo."
+    },
+    {
+      "text": "\uD83D\uDCA1 Actualmente, sigo aprendiendo y formándome día a día con muchas ganas de implicarme en los nuevos proyectos que se me pongan por delante."
     }
   ]
 }
