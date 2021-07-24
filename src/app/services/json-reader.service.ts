@@ -9,9 +9,9 @@ import { Project } from '../models/project.model';
   providedIn: 'root'
 })
 export class JsonReaderService {
-  private readonly linksURL = 'http://130.61.121.123:11000/assets/json/links.json';
-  private readonly bioURL = 'http://130.61.121.123:11000/assets/json/bio.json';
-  private readonly projectsURL = 'http://130.61.121.123:11000/assets/json/projects.json';
+  private readonly linksURL = 'assets/json/links.json';
+  private readonly bioURL = 'assets/json/bio.json';
+  private readonly projectsURL = 'assets/json/projects.json';
 
   constructor(private httpClient: HttpClient) {
   }
