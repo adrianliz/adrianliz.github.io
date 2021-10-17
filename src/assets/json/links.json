@@ -1,17 +1,17 @@
 [
   {
-    "name": "GitHub",
-    "link": "https://github.com/adrianliz",
-    "img": "assets/img/github.png"
-  },
-  {
     "name": "Linkedin",
     "link": "https://www.linkedin.com/in/adrian-lizaga",
     "img": "assets/img/linkedin.png"
   },
   {
+    "name": "GitHub",
+    "link": "https://github.com/adrianliz",
+    "img": "assets/img/github.png"
+  },
+  {
     "name": "Gmail",
-    "link": "mailto:adrianlzgi@gmail.com",
+    "link": "mailto:lizagaadrian@gmail.com",
     "img": "assets/img/gmail.png"
   }
 ]
