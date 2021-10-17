@@ -14,6 +14,10 @@ Angular 11
 
 Para usarlo simplemente puedes hacer un fork del mismo y configurarlo a tu gusto
 
+¿Cómo puedo trackear la interacción con mi portfolio?
+
+- Añade la variable de entorno ``GOOGLE_TRACKING_ID``
+
 ¿Qué ficheros debo modificar?
 
 - src/assets/json/bio.json -> Introduce los datos de tu biografía
